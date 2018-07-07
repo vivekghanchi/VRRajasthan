@@ -26,6 +26,12 @@
     9.Umaid Bhawan Palace
     10.City Palace, Udaipur
     
+## Description of Idea
+
+    We are Looking forward to make Virtual Reality experiences of the above listed names.
+    This will show to the world the rich tradition of Rajasthan and can be part of  
+    Rajasthan culturer festivals and can get immersive experience of monumnets of Rajasthan.
+    
 ## Screenshots of Project
 
 ![alt text](Screenshots/Screenshot_2018-07-08-00-56-55-576_com.OnlineHackathon.Digifest.png "Project SS")
