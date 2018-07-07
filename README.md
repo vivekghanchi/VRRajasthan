@@ -6,6 +6,14 @@
     experience the feel of 360 videos. Mostly people are using vr 
     technology for entertainment purpose.
     
+## Description of Idea
+
+    We are Looking forward to make Virtual Reality experiences of the below listed names.
+    By developing an google cardboard application for mobile so that it will
+    be easy for everyone to access and experience the rich tradition.
+    This will show to the world the rich tradition of Rajasthan and can be part of  
+    Rajasthan culturer festivals and can get immersive experience of monumnets of Rajasthan.
+    
 ## Festivals of Rajasthan
     
     In Rajasthan many festivals celebrate.Gangaur and Teej are the different
@@ -26,11 +34,7 @@
     9.Umaid Bhawan Palace
     10.City Palace, Udaipur
     
-## Description of Idea
 
-    We are Looking forward to make Virtual Reality experiences of the above listed names.
-    This will show to the world the rich tradition of Rajasthan and can be part of  
-    Rajasthan culturer festivals and can get immersive experience of monumnets of Rajasthan.
     
 ## Screenshots of Project
 
