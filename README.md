@@ -12,6 +12,19 @@
     festivals which are only celebrate in Rajasthan. These are the biggest
     festival in Rajasthan. In Rajasthan also celebrate Holi, Makar Sankranti,
     Diwali, Basant Panchami, Rakshabandhan and many more.
+
+## Famous Places of Rajasthan
+
+    1.City Palace, Jaipur
+    2.Amer Fort
+    3.Jaisalmer Fort
+    4.Guru Shikhar, Mount Abu.
+    5.Ranthambore Fort
+    6.Chittorgarh Fort
+    7.Junagarh fort
+    8.Mehrangarh Fort
+    9.Umaid Bhawan Palace
+    10.City Palace, Udaipur
     
 ## Screenshots of Project
 
