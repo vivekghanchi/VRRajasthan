@@ -50,3 +50,7 @@
 ![alt text](Screenshots/Screenshot_2018-07-08-01-00-13-665_com.OnlineHackathon.Digifest.png "Project SS")
 ![alt text](Screenshots/Screenshot_2018-07-08-01-00-50-764_com.OnlineHackathon.Digifest.png "Project SS")
 
+## Technology Used 
+    1. Unity3D 2017.3.1f1
+    
+
